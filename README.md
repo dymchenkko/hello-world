@@ -1,2 +1,6 @@
 # hello-world
-Not first repository but created following quickstart guide.
+# Main Title
+[link for my github account](https://github.com/dymchenkko)
+- First item
+- Second item
+- Third item
